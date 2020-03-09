@@ -15,6 +15,12 @@ Comprobamos que `Apache` está funcionando correctamente:
 
 ![m1](./img/5.png)
 
+E instalamos el resto de herramientas para `php`:
+
+![m1](./img/11.png)
+
+![m1](./img/12.png)
+
 Añadimos el fichero web de ejemplo y usamos `curl` para ver si todo es correcto:
 
 ![m1](./img/6.png)
